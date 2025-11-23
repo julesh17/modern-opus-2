@@ -2,7 +2,7 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
+    "./src/**/*.{js,ts,jsx,tsx}", // <--- VÉRIFIE CETTE LIGNE À LA LETTRE PRÈS
   ],
   theme: {
     extend: {
